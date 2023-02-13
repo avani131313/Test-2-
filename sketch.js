@@ -35,7 +35,7 @@ function draw() {
   textSize(50)
   text(waterCollected,width/2-30,height/2-40)
   textSize(40)
-  text("185 litres",width/2+280,height/2-120)
+  text("450 litres",width/2+280,height/2-120)
   
   if(mousePressedOver(box)){
        
